@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Major Computer Science
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=250&section=header&text=HYUN&fontSize=90)
+
 
 <a href="https://github.com/zestbear"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestbear&layout=compact&theme=nord&hide_border=true" /></a> 
