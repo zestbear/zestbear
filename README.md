@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Major Computer Science
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zestbear&layout=compact)](https://github.com/zestbear/github-readme-stats)
+<a href="https://github.com/zestbear"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestbear&layout=compact&theme=nord&hide_border=true" /></a> 
