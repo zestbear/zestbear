@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Major Computer Science
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zestbear&layout=compact)](https://github.com/zestbear/github-readme-stats)
