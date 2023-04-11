@@ -12,7 +12,7 @@ Here are some ideas to get you started:
  - ⚡ Fun fact: ...
  -->
  
-![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=120&section=header&text=HYUN&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=white&height=120&section=header&text=HYUN&fontSize=50)
 
 🎓 중앙대학교 소프트웨어학과 |  2019.03 ~
 
