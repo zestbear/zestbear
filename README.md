@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 🎓 중앙대학교 소프트웨어학과 |  2019.03 ~
 
- <a href="https://github.com/zestbear"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestbear&layout=compact&theme=nord&hide_border=true" /></a>
+ <td><a href="https://github.com/zestbear"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestbear&layout=compact&theme=nord&hide_border=true" /></a></td>
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zestbear)](https://solved.ac/zestbear/)
+ <td>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zestbear)](https://solved.ac/zestbear/)</td>
  
  </div>
