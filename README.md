@@ -12,13 +12,3 @@ Here are some ideas to get you started:
  - ⚡ Fun fact: ...
  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=90ee90&height=180&section=header&text=zestbear&fontSize=70)
-
-<!--
-
-🎓 중앙대학교 소프트웨어학과 |  2019.03 ~
-
- <a href="https://github.com/zestbear"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestbear&layout=compact&theme=nord&hide_border=true" /></a>
- 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zestbear)](https://solved.ac/zestbear/)
- -->
