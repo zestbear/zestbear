@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> `Major`
 
-- `2019.03.02 ~   | ChungAng Univ. Computer Science Engineering`
+- `2019.03.02 ~       | ChungAng Univ. Computer Science Engineering`
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> `Now Studying`
 
