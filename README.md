@@ -1,9 +1,13 @@
 
 <p align="left">
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> `2019.03.02 ~       | ChungAng Univ. Computer Science Engineering`
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25" height="25" />
+Backend Developer
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> `Studying`
+- `2019.03.02 ~       | ChungAng Univ. Computer Science Engineering`
+
+
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> Studying
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
