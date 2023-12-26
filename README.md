@@ -28,7 +28,7 @@ Backend Developer
 ```
 feat:       새로운 기능 커밋
 fix:        수정 커밋
-build:      빌드 관련 파일 수정에 커밋
+build:      빌드 관련 파일 수정 커밋
 ci/cd:      배포 커밋
 docs:       문서 수정 커밋
 style:      코드 스타일 및 포맷 커밋
