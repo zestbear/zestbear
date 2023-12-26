@@ -4,7 +4,7 @@
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25" height="25" />
 Backend Developer
 
-- `2019.03.02 ~       | ChungAng Univ. Computer Science Engineering`
+- 중앙대학교 소프트웨어학과 3학년 재학 중 `(2019.03 ~ )`
 
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> Studying
