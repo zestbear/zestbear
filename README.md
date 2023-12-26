@@ -23,4 +23,17 @@ Backend Developer
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bookmark%20Tabs.png" width="25" height="25" /> Rules
+
+```
+feat:       새로운 기능 커밋
+fix:        수정 커밋
+build:      빌드 관련 파일 수정에 커밋
+ci/cd:      배포 커밋
+docs:       문서 수정 커밋
+style:      코드 스타일 및 포맷 커밋
+refactor:   코드 리팩토링 커밋
+test:       테스트 코드 수정 커밋
+```
+
 </p>
