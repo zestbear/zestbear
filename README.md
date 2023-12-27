@@ -7,21 +7,31 @@ Backend Developer
 - 중앙대학교 소프트웨어학과 3학년 재학 중 `(2019.03 ~ )`
 
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> Studying
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> Skills
 
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white")
-![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+  <p>
+    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white"/>
+  </p>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <p>
+    <img src="https://img.shields.io/badge/-Spring%20boot-green?style=flat-square&logo=Spring%20boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Django-grey?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/-mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white"/>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  </p>
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bookmark%20Tabs.png" width="25" height="25" /> Rules
 
