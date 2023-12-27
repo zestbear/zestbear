@@ -10,12 +10,12 @@ Backend Developer
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> Skills
 
   <p>
-    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white"/>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/-Spring%20boot-green?style=flat-square&logo=Spring%20boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Spring%20boot-6DB33F?style=flat-square&logo=Spring%20boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Django-grey?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   </p>
