@@ -2,7 +2,7 @@
 <p align="left">
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25" height="25" />
-Hi, I'm working towards becoming a backend developer.
+Hi, I'm working toward becoming a backend developer.
 
 - 4th grade student at Chung-Ang University `(2019.03 ~ )`
 - Currently studying `Apache Kafka` and `BlockChain`
