@@ -2,9 +2,9 @@
 <p align="left">
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25" height="25" />
-Backend Developer
+Hi, I'm working towards becoming a backend developer.
 
-- 중앙대학교 소프트웨어학과 3학년 재학 중 `(2019.03 ~ )`
+- 4th grade student at Chung-Ang University `(2019.03 ~ )`
 
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /> Skills
@@ -25,6 +25,7 @@ Backend Developer
     <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
   </p>
 
   <p>
