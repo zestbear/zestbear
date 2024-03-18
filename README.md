@@ -5,6 +5,8 @@
 Hi, I'm working toward becoming a backend developer.
 
 - 4th grade student at Chung-Ang University `(2019.03 ~ )`
+- <img src="https://github.com/zestbear/zestbear/assets/49549887/f7747f1d-849d-4dc5-a266-5cc2bf1ada31" width="20" height="20"/> Backend Developer Intern `(2024.01.01 ~ 2024.02.29)`
+
 - Currently studying `Apache Kafka` and `BlockChain`
 
 
