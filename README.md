@@ -2,7 +2,7 @@
 <p align="left">
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Eyes.png" width="25" height="25" />
-Hi, I'm working toward becoming a backend developer.
+Backend Developer
 
 ---
 
