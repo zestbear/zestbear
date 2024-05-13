@@ -1,8 +1,7 @@
 
 <p align="left">
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Eyes.png" width="25" height="25" />
-Backend Developer
+<h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Eyes.png" width="25" height="25" />  Backend Developer</h3>
 
 ---
 
@@ -11,9 +10,9 @@ Backend Developer
 
 - Currently studying `Apache Kafka` and `BlockChain`
 
-<br/><br/>
+<br/>
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25"/> Tech Stack
+<h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25"/> Tech Stack </h3>
 
 ---
 
