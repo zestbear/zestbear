@@ -6,9 +6,7 @@
 ---
 
 - 4th grade student at Chung-Ang University `(2019.03 ~ )`
-- Backend Developer Intern `(2024.01.01 ~ 2024.02.29)`
-
-- Currently studying `Apache Kafka` and `BlockChain`
+- Humanf Backend Developer Intern `(2024.01.01 ~ 2024.02.29)`
 
 <br/>
 
@@ -20,13 +18,13 @@
 
   <p>
     <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Spring%20boot-6DB33F?style=flat-square&logo=Spring%20boot&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white"/> -->
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/-Spring%20boot-6DB33F?style=flat-square&logo=Spring%20boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Django-grey?style=flat-square&logo=Django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/-Django-grey?style=flat-square&logo=Django&logoColor=white"/> -->
+<!--     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> -->
   </p>
 
   <p>
@@ -34,6 +32,7 @@
     <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <!--     <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
   </p>
 
