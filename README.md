@@ -29,7 +29,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/-mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> -->
 <!--     <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/>
