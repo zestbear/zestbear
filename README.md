@@ -10,7 +10,7 @@
 
 - 4th grade student at Chung-Ang University `(2019.03 ~ )`
 - Humanf Backend Developer Intern `(2024.01.01 ~ 2024.02.29)`
-- Currently learning `Distributed System`
+- Currently studying `Distributed System`
 
 <br/>
 
