@@ -1,15 +1,12 @@
 
 <p align="left">
 
- <!--    https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png  -->
- <!--    https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Robot.png  -->
-
 <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Eyes.png" width="25" height="25" />  Backend Developer</h3>
 
 ---
 
-- 4th grade student at Chung-Ang University `(2019.03 ~ )`
-- Humanf Backend Developer Intern `(2024.01.01 ~ 2024.02.29)`
+- Majored in Computer Science and Engineering at Chung-Ang University `(2019.03 - )`
+- Humanf Backend Developer Intern `(2024.01 - 2024.02)`
 - Currently studying `Distributed System`
 
 <br/>
