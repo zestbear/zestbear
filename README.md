@@ -7,6 +7,7 @@
 
 - Majored in Computer Science and Engineering at Chung-Ang University `(2019.03 - )`
 - Humanf Backend Developer Intern `(2024.01 - 2024.02)`
+- Real estate appraisal firm Developer Intern `(2024.09 - )`
 - Currently studying `Distributed System`
 
 <br/>
