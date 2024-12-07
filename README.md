@@ -6,7 +6,7 @@
 ---
 
 - Mostly interested in Distributed Systems
-- Majored in Computer Science and Engineering at Chung-Ang University `(2019.03 - )`
+- Majored in Computer Science and Engineering at Chung-Ang University `(2019.03 - 2025.02)`
 - Humanf Backend Developer Intern `(2024.01 - 2024.02)`
 - Appraisal Corporation Developer Intern `(2024.09 - )`
 
